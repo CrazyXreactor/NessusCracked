@@ -1,5 +1,5 @@
 # NessusCracked
-Nessus Cracked By CRAZY https://xreactor.org/
+Nessus Cracked By CRAZYH4CK
 # nessus
 Install and crack nessus
 
