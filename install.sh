@@ -1,7 +1,7 @@
 #!/bin/bash
 if [[ $(id -u) -ne 0 ]] ; then echo "Please run as root" ; exit 1 ; fi
 echo //==============================================================
-echo      "Xreactor.org Nessus 10.4.1 CRACK BY CRAZY"
+echo      "Nessus 10.4.1 CRACKED BY CRAZYH4CK "
 echo //==============================================================
 echo " o Installing Prerequisites.."
 apt update &>/dev/null
